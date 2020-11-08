@@ -1,5 +1,5 @@
 <h1 align="center">DemotyBot</h1>
-    <blockquote>Бот, создавающий демотиваторы</blockquote>
+    <blockquote>Бот, создающий демотиваторы</blockquote>
 </p>
 <hr>
 
