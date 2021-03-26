@@ -1,0 +1,1 @@
+simpledemotivators==1.6.0
